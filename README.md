@@ -31,9 +31,9 @@ Example usage:
            ~ |  __/|_|\____|\__ (_)
            ~ |_|            |__/
            ~
-           ~ play! 1.3.1, http://www.playframework.org
+           ~ play! 1.7.1, http://www.playframework.org
            ~
-           1.3.1
+           1.7.1
            Building Play! application at directory ./
     ...
 

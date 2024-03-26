@@ -14,7 +14,7 @@ if [[ -n $PLAY_FILE && -f $PLAY_FILE ]]; then
 # Build Play! framework
 else
   PLAY_BUILD_DIR=~/release/play
-  PLAY_BRANCH=1.2.x
+  PLAY_BRANCH=1.7.x
   PLAY_TAG=HEAD
 
   cd $PLAY_BUILD_DIR
